@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.5.0",
-    "uglifyjs": "^2.4.10"
+    "uglify-js": "^3.4.9"
   }
 }
