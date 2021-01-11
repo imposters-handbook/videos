@@ -1,0 +1,9 @@
+{
+  "name": "01-binary-math",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9"
+  }
+}

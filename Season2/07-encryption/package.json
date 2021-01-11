@@ -1,0 +1,15 @@
+{
+  "name": "07-encryption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.2.1",
+    "vigenere": "^1.0.2"
+  }
+}

@@ -1,7 +1,5 @@
-# Code For The Imposter's Handbook Videos
+# Code For The Imposter's Handbook Videos, Seasons 1 and 2
 
-This is the code for the 16 video walkthroughs in the Imposter's Hanbook. If you want to follow along, you'll need to have Node installed (6+) and, optionally, Elixir if you want to do the functional programming stuff (which you should!).
+This is the code for the "CS Basics" video series, otherwise known as "The Imposter Video Series". They started out as individual offerings but in late 2020 I combined them into a single video set [which you can see more of right here](https://bigmachine.io/productions/imposter-video).
 
-I do all of the samples within the Atom text editor using the Script Runner plugin, which is east to find and install.
-
-Have fun!
+If you have any issues with the code or videos, feel free to leave an issue!
